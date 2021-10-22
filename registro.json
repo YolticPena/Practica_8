@@ -1,0 +1,26 @@
+{
+    "Registro": [
+        [
+            {
+                "CURP": "HOLA",
+                "Nombre": "Yoltic",
+                "Apellido": "Prueba",
+                "Costo": 150,
+                "Categoria": "Aficionado",
+                "Sexo": "Hombre",
+                "Direccion": ""
+            }
+        ],
+        [
+            {
+                "CURP": "TESTED",
+                "Nombre": "taty",
+                "Apellido": "Prueba",
+                "Costo": 100,
+                "Categoria": "Libre",
+                "Sexo": "Mujer",
+                "Direccion": ""
+            }
+        ]
+    ]
+}
